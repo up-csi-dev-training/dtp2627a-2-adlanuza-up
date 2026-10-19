@@ -1,3 +1,11 @@
+<p align="center">
+  <img src="https://static.wikia.nocookie.net/jpop/images/5/58/Yorushika_Nininshou.png/revision/latest?cb=20260423152828" alt="Cover art of the Nininshou album of Yorushika, which the song Haru is in" width="500">
+</p>
+
+<div align="center" style="font-weight: bold;">
+<b> Haru | Yorushika </b>
+</div>
+
 # DTP Assignment 2
 
 This assignment is all about GitHub. It is divided into two parts.
